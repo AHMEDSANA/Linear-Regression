@@ -25,10 +25,10 @@ The cost is the error in our predicted value. We will use the Mean Squared Error
 
 Gradient Descent is an algorithm that finds the best-fit line for a given training dataset in a smaller number of iterations.
 
-## Linear regression implementationDataset:
+## Linear regression implementation Dataset:
 
 I used a dataset from Kaggle for the prediction of diabetes based on different conditions.
-Diabetes Dataset from Kaggle.
+The dataset is provided in the repo as well.
 
 ## Code
 
