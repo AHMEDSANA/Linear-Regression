@@ -33,9 +33,8 @@ Diabetes Dataset from Kaggle.
 ## Code
 
 - Download the Matlab files
+- Change the location of the dataset to the location on your machine in the code.
 - Run all the function files and then run the Main file after running the main file run the prediction file.
-- Change the location of the dataset to the location on your machine
-- Run the code
 - Change the values in the prediction portion of the code to the values you want to predict
 
 ## Output
